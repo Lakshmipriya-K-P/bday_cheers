@@ -1,0 +1,71 @@
+#Heading {
+    color:#3E065F;
+    background-color:white;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+
+body {
+    background-color: black;
+    color:white;
+    
+}
+
+#same{
+    font-family:'Shadows Into Light';
+    font-size: 30px;
+    color: #FF8243;
+    text-align:left
+}
+
+button{
+    color:black;
+    background-color: white;
+    font-family: 'Abril Fatface', cursive ;
+    font-weight: bold;
+    width: 120px;
+    height: 80px;
+}
+
+#msg1{
+    text-align: center;
+}
+
+#msg2{
+    text-align: center;
+}
+
+#msg3{
+    text-align: center;
+}
+
+#msg4{
+    text-align: center;
+}
+
+#msg5{
+    text-align: center;
+}
+
+#surprize{
+    font-family:"Special Elite", cursive;
+    font-size: 25px;
+    color: white;
+}
+
+#para{
+    text-align: center;
+}
+
+#anchor {
+    text-align: center;
+}
+
+footer{
+    padding: 20px;
+    margin-top: 20px;
+    color: white;
+    background-color: #143059;
+    text-align: center;
+}
